@@ -1,3 +1,5 @@
+//See LICENSE 
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
