@@ -20,7 +20,6 @@ int main()
 {
     double frKeff, flKeff, rrKeff, rlKeff, frontMR, rearMR, frMass, flMass, rrMass, rlMass;
     
-    tomochan();
     cout << "Hello! Today we're gonna find out your perfect valving and spring rates! ≧◡≦" << endl;
     
     cout << "\nWe'll start with natural frequency to find spring rates first.\nNatural frequency is basically how stiff your car rides, based on a number usually between ~1.3 and ~2.2" << endl;
