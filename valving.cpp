@@ -10,9 +10,6 @@ double springCalc(double, double, double&, double);
 double criticalDampCalc(double, double, double);
 void reverseSpring(double&, double, double, double, double&);
 
-//（＊＾Ｕ＾）人（≧Ｖ≦＊）/
-//＼（＾○＾）人（＾○＾）／
-
 //1-3in/s 65%
 //4-17 30%
 
