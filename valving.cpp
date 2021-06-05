@@ -32,9 +32,9 @@ int main()
         cin >> cB;
         
         if (cB == 'n')
-            cout << "Thats okay, we can work with your stock weight distribution then ヽ(^◇^*)/" << endl;
+            cout << "Thats okay, we can work with your stock weight distribution then" << endl;
         else if (cB == 'y')
-            cout << "\n＼（＾○＾）人（＾○＾）／ Great! Your suspension will be even more dialed in!" << endl;
+            cout << "\nGreat! Your suspension will be even more dialed in" << endl;
         else
             cout << "I'm sorry, what? (ㄒoㄒ)" << endl;
     } while (cB != 'y' && cB != 'n');
@@ -67,7 +67,7 @@ int main()
     
     else if (cB == 'y')
     {
-        cout << "\nWhat is your front right mass? (in kg): ";
+        cout << "\nWhat is your front right mass? (in kg, not including unsprung mass): ";
         cin >> frMass;
         
         cout << "\nWhat is your front left mass? : ";
